@@ -36,3 +36,24 @@
 ### Deployment
 
 Smart contract deployed successfully on SecureChain Mainnet using Remix IDE and MetaMask.
+
+
+# Attendance Token (ERC20)
+
+A simple Attendance Token smart contract developed using Solidity.
+
+## Features
+
+* Create attendance tokens
+* Transfer tokens between users
+* Track user balances
+* Initial token supply assigned to deployer
+
+## Technology Used
+
+* Solidity ^0.8.20
+* Remix IDE
+* Ethereum Compatible Network
+
+
+
