@@ -56,4 +56,33 @@ A simple Attendance Token smart contract developed using Solidity.
 * Ethereum Compatible Network
 
 
+# Internship Certificate NFT (ERC721)
+
+## Description
+
+This project implements an ERC721 NFT smart contract for issuing internship certificates on the blockchain.
+
+## Features
+
+* ERC721 Standard NFT
+* Unique Internship Certificate NFTs
+* Certificate Minting Function
+* Blockchain-based Ownership Verification
+
+## Contract Name
+
+InternshipNFT
+
+## Network
+
+SCAI Testnet
+
+## Contract Address
+0xf3bf5802215cF95D183eB892D8dfA59ae8a8a5F2
+
+
+
+
+
+
 
