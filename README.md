@@ -127,6 +127,25 @@ This project implements an ERC721 NFT smart contract used to issue achievement b
 - Remix IDE
 - Ethereum Blockchain
 
+# NFT Minting Contract
+
+## Description
+A simple NFT minting smart contract that allows users to mint unique NFTs.
+
+## Features
+- NFT minting
+- Ownership tracking
+- Token ID generation
+
+## Contract Address
+0xf65Cd949B031702C50580071e203C801C6cAd4b2
+
+## Technology Used
+- Solidity
+- Remix IDE
+- Ethereum Blockchain
+
+
 
 
 
