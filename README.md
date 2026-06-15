@@ -80,6 +80,28 @@ SCAI Testnet
 ## Contract Address
 0xf3bf5802215cF95D183eB892D8dfA59ae8a8a5F2
 
+# Course Completion NFT (ERC721)
+
+## Description
+This project implements an ERC721 NFT smart contract used to issue Course Completion NFTs to students who successfully complete a course.
+
+## Features
+- NFT minting functionality
+- Unique token for each student
+- Ownership tracking
+- ERC721 standard based contract
+
+## Contract Details
+- Name: Course Completion NFT
+- Symbol: CCNFT
+
+## Contract Address
+0xf65Cd949B031702C50580071e203C801C6cAd4b2
+
+## Technology Used
+- Solidity
+- Remix IDE
+- Ethereum Blockchain
 
 
 
