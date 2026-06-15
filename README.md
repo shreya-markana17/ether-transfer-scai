@@ -104,6 +104,29 @@ This project implements an ERC721 NFT smart contract used to issue Course Comple
 - Ethereum Blockchain
 
 
+# Achievement Badge NFT (ERC721)
+
+## Description
+This project implements an ERC721 NFT smart contract used to issue achievement badge NFTs to users.
+
+## Features
+- NFT minting functionality
+- Unique NFT ownership
+- Achievement badge distribution
+- Ownership tracking
+
+## Contract Details
+- Name: Achievement Badge NFT
+- Symbol: ABNFT
+
+## Contract Address
+0x1bbf610ed3dee9a13c1008eb5a9a557fddb54d4c
+
+## Technology Used
+- Solidity
+- Remix IDE
+- Ethereum Blockchain
+
 
 
 
